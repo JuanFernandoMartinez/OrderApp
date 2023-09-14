@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string name="header_instruction_txt">Para realizar su pedido por favor escoja cada elemento del menú</string>
+    <string name="btn_add_item">+ AGREGAR ITEM</string>
+    <string name="Delivery_title_txt">NO SOY RAPPI</string>
+    <string name="place_order_button_txt">HACER PEDIDO</string>
+    <string name="menu_title_txt">MENU</string>
+    <string name="menu_confirm_button_txt">CONFIRMAR</string>
+</resources>
